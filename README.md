@@ -10,7 +10,4 @@ ___
 - gensim
 - Wikipedia
 ### Dependency Installation order:
-1) 
-```bash 
-sudo pip install numpy
-```
+1) ```sudo pip install numpy```
