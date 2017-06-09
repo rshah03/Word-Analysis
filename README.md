@@ -10,4 +10,10 @@ ___
 - gensim
 - Wikipedia
 ### Dependency Installation order:
+> Make sure pip is updated to latest: ```sudo pip install --upgrade pip```
 1) ```sudo pip install numpy```
+2) ```sudo pip install scipy```
+3) ```sudo pip install wikipedia```
+4) ```sudo pip install gensim``` OR ```sudo easy_install -U gensim```
+
+
