@@ -5,8 +5,11 @@ Playing around with deep learning in Python. Using Google's Word2Vec library.
 
 ___
 ## Dependencies
-*Numpy
-*Scipy
-*gensim
-*Wikipedia
-
+- Numpy
+- Scipy
+- gensim
+- Wikipedia
+### Dependency Installation order:
+1) '''bash
+sudo pip install numpy
+'''
