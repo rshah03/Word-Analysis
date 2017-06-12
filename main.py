@@ -48,5 +48,5 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 sentences = word2vec.Text8Corpus('Output.txt')
 model = Word2Vec(sentences, min_count=2, size=50, window=4)
 
-print 'learn' in model
+# print 'learn' in model
 print model['learn']
